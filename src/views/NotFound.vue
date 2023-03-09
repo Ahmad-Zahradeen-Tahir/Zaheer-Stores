@@ -15,22 +15,22 @@
     }
     h1 {
         font-weight: 200;
+        color: white;
         text-align: center;
     }
     a {
   text-decoration: none;
-  border: 2px solid gray;
+  border: 2px solid white;
   font-size: 1rem;
   font-weight: 500;
   padding: 0.5rem 1rem;
-  color: black;
+  color: white;
   border-radius: 0.375rem;
   outline: none;
-  background-color: orange;
+  background-color: blue;
   left: -4px;
   top: -4px;
   z-index: 2;
-  box-shadow: 1px 3px black ;
   transition:0.1s ease-in-out ;
   text-transform: uppercase;
 }
